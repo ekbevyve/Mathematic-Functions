@@ -1,2 +1,2 @@
-# Mechanics
-This is a repository filled with functions that perform basic mmathematics.
+# Maths
+This is a repository filled with functions that perform basic mathematics.
