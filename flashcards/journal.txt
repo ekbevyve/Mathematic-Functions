@@ -1,0 +1,11 @@
+RESOURCES:
+
+I looked at this webpage, as I thought I could make use of an older solution to a similar problem in terms of file reading/seperating lines. 
+It was after attempting to use this solution I realised that I could simply manipulate the provided code to save the different parts of the list into the dictionary.
+https://stackoverflow.com/questions/46738966/how-to-check-text-file-for-usernames-and-passwords
+
+I then used the following code provided by open university and changed it a bit.
+https://learn2.open.ac.uk/mod/oucontent/view.php?id=1912071&section=7.7
+
+For the random selection I used this code, and the import random module.
+https://learn2.open.ac.uk/mod/oucontent/view.php?id=1912071&section=3.2
